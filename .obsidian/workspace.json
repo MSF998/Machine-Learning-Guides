@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "3bc017ac5b681e9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "91ae503b9f3e0692",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a8f370ab0ac0109",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Supervised Learning/Linear Regression/Univariate Linear Regression.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Univariate Linear Regression"
+            }
+          },
+          {
+            "id": "405cb7a0510fdd81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Supervised Learning/Linear Regression/Multiple Variable Linear Regression.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Multiple Variable Linear Regression"
+            }
+          },
+          {
+            "id": "bfd59713e3c18b33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Machine Learning"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97b70d2b9c8abca6",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa5a0a697340f23c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "214fa9092783ec15",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c9abf02aab77a1c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e82861d2a01f7bd0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1deebe0ea9a678d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "fda1ebc9bb216f6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61aec1c92e375c0f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Supervised Learning/Linear Regression/Univariate Linear Regression.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Univariate Linear Regression"
+            }
+          },
+          {
+            "id": "e849e349b4b01c43",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Supervised Learning/Linear Regression/Univariate Linear Regression.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Univariate Linear Regression"
+            }
+          },
+          {
+            "id": "9b7daebb01e012a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "860eeaafb8935b5e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Supervised Learning/Linear Regression/Univariate Linear Regression.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Univariate Linear Regression"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "1a8f370ab0ac0109",
+  "lastOpenFiles": [
+    "Supervised Learning/Linear Regression/Multiple Variable Linear Regression.md",
+    "Machine Learning.md",
+    "Supervised Learning/Linear Regression/Univariate Linear Regression.md",
+    "Supervised Learning/Linear Regression/Gradient Descent for Multiple Feature.md",
+    "Supervised Learning/plot.png",
+    "Untitled.canvas",
+    "Supervised Learning/Supervised Learning.md",
+    "2025-10-25.md",
+    "Supervised Learning/Linear Regression",
+    "Supervised Learning",
+    "Untitled.base",
+    "Welcome.md"
+  ]
+}
