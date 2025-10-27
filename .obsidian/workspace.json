@@ -13,36 +13,18 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "ML Techniques.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "ML Techniques"
-            }
-          },
-          {
-            "id": "bfd59713e3c18b33",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
                 "file": "Machine Learning Algorithms.canvas",
                 "viewState": {
-                  "x": -1297.5,
-                  "y": -12.5,
-                  "zoom": -1.685277944043559
+                  "x": -2295.993421019036,
+                  "y": 584.8120233849012,
+                  "zoom": -0.01861127737689261
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Machine Learning Algorithms"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,13 +173,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "bfd59713e3c18b33",
+  "active": "1a8f370ab0ac0109",
   "lastOpenFiles": [
     "ML Techniques.canvas",
-    "Supervised Learning/Linear Regression/Multiple Variable Linear Regression.md",
     "Machine Learning Algorithms.canvas",
-    "Supervised Learning/Linear Regression/Univariate Linear Regression.md",
+    "Supervised Learning/Linear Regression/Multiple Variable Linear Regression.md",
     "Supervised Learning/Linear Regression/Gradient Descent for Multiple Feature.md",
+    "Untitled.md",
+    "Supervised Learning/Linear Regression/Univariate Linear Regression.md",
     "Machine Learning.md",
     "Supervised Learning/plot.png",
     "Supervised Learning/Supervised Learning.md",

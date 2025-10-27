@@ -8,6 +8,7 @@
 | $f_{\mathbf{w},b}(\mathbf{x}) = \mathbf{w} \cdot \mathbf{x} + b  \tag{2}$ | The result of the model evaluation at $x^{(i)}$ parameterized by $w,b$: $\mathbf{w},b$: $f_{\mathbf{w},b}(\mathbf{x}^{(i)}) = \mathbf{w} \cdot \mathbf{x}^{(i)}+b$<br>where $\cdot$ is a vector `dot product` | `f_wb`       |
 | $\frac{\partial J(w,b)}{\partial b}$                                      | Partial derivative of $J(w,b)$ with respect to $b$                                                                                                                                                            | `dj_db`      |
 | $\frac{\partial J(w,b)}{\partial w}$                                      | Partial derivative of $J(w,b)$ with respect to $w$                                                                                                                                                            | `dj_dw`      |
+| $\alpha$                                                                  | Learning Rate                                                                                                                                                                                                 | `alpha`      |
 
 The training dataset contains three examples with four features (size, bedrooms, floors and, age)
 

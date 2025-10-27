@@ -9,6 +9,7 @@
 | $f_{w,b}(x^{(i)})$                   | The result of the model evaluation at $x^{(i)}$ parameterized by $w,b$: $f_{w,b}(x^{(i)}) = wx^{(i)}+b$ | `f_wb`       |
 | $\frac{\partial J(w,b)}{\partial b}$ | Partial derivative of $J(w,b)$ with respect to $b$                                                      | `dj_db`      |
 | $\frac{\partial J(w,b)}{\partial w}$ | Partial derivative of $J(w,b)$ with respect to $w$                                                      | `dj_dw`      |
+| $\alpha$                             | Learning Rate                                                                                           | `alpha`      |
 
 The equation for univariate linear regression model is:
 $$f_{w,b}(x^{(i)}) = wx^{(i)}+b$$

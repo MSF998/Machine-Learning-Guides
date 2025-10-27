@@ -19,12 +19,12 @@
 		{"id":"b64a9289a55f5b4c","type":"text","text":"Gradient","x":-604,"y":457,"width":124,"height":34},
 		{"id":"ea3b720667886c2b","type":"text","text":"$\\begin{align*} \\text{repeat}&\\text{ until convergence:} \\; \\lbrace \\newline\\;\n& w_j = w_j -  \\alpha \\frac{\\partial J(\\mathbf{w},b)}{\\partial w_j} \\ \\; & \\text{for j = 0..n-1}\\newline\n&b\\ \\ = b -  \\alpha \\frac{\\partial J(\\mathbf{w},b)}{\\partial b}  \\newline \\rbrace\n\\end{align*}$","x":-305,"y":557,"width":445,"height":185},
 		{"id":"dde33e6104f4add4","type":"text","text":"Gradient Descent","x":-187,"y":457,"width":210,"height":34},
-		{"id":"b2a51ba5a4975c4f","type":"text","text":"Linear Regression","x":-515,"y":-520,"width":250,"height":34},
+		{"id":"2a0b7971365f6d44","type":"text","text":"Multiple Variable Linear Regression\n[[Multiple Variable Linear Regression]]","x":-852,"y":140,"width":372,"height":70},
 		{"id":"e27212d839e886c3","type":"text","text":"Supervised Learning","x":-305,"y":-660,"width":250,"height":34},
 		{"id":"b28596cef40e35ac","type":"text","text":"Logistic Regression","x":-115,"y":-520,"width":250,"height":34},
 		{"id":"edaf755b4e7b3e57","type":"text","text":"Machine Learning","x":-55,"y":-800,"width":250,"height":34},
 		{"id":"537d9f242dceaf6b","type":"text","text":"Unsupervised Learning","x":195,"y":-660,"width":250,"height":34},
-		{"id":"2a0b7971365f6d44","type":"text","text":"Multiple Variable Linear Regression\n[[Multiple Variable Linear Regression]]","x":-852,"y":140,"width":372,"height":70}
+		{"id":"b2a51ba5a4975c4f","type":"text","text":"Linear Regression","x":-1700,"y":-554,"width":250,"height":34}
 	],
 	"edges":[
 		{"id":"2de7b8d8945d207f","fromNode":"edaf755b4e7b3e57","fromSide":"bottom","toNode":"e27212d839e886c3","toSide":"top"},
