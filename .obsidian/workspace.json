@@ -13,15 +13,29 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Machine Learning Algorithms.canvas",
+                "file": "ML Techniques.canvas",
                 "viewState": {
-                  "x": -2295.993421019036,
-                  "y": 584.8120233849012,
-                  "zoom": -0.01861127737689261
+                  "x": -470.4916977378933,
+                  "y": 686.7333255096505,
+                  "zoom": -0.6768842399204913
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Machine Learning Algorithms"
+              "title": "ML Techniques"
+            }
+          },
+          {
+            "id": "593b5e6c764c4731",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML Techniques/Feature/Feature Normalization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Feature Normalization"
             }
           }
         ]
@@ -175,15 +189,20 @@
   },
   "active": "1a8f370ab0ac0109",
   "lastOpenFiles": [
+    "ML Techniques/Feature/Feature Normalization.md",
     "ML Techniques.canvas",
     "Machine Learning Algorithms.canvas",
+    "Supervised Learning/Supervised Learning.md",
+    "ML Techniques/Feature/Feature Engineering.md",
+    "Supervised Learning/Linear Regression/Univariate Linear Regression.md",
     "Supervised Learning/Linear Regression/Multiple Variable Linear Regression.md",
     "Supervised Learning/Linear Regression/Gradient Descent for Multiple Feature.md",
-    "Untitled.md",
-    "Supervised Learning/Linear Regression/Univariate Linear Regression.md",
     "Machine Learning.md",
+    "Untitled",
+    "ML Techniques/Parameter",
+    "ML Techniques/Feature",
+    "ML Techniques",
     "Supervised Learning/plot.png",
-    "Supervised Learning/Supervised Learning.md",
     "2025-10-25.md",
     "Supervised Learning/Linear Regression",
     "Supervised Learning",
