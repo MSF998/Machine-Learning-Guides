@@ -8,20 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1a8f370ab0ac0109",
+            "id": "06fafbb6c29bfd29",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "ML Techniques.canvas",
-                "viewState": {
-                  "x": -470.4916977378933,
-                  "y": 686.7333255096505,
-                  "zoom": -0.6768842399204913
-                }
+                "file": "Supervised Learning/Logistic Regression/Logistic Regression.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "ML Techniques"
+              "icon": "lucide-file",
+              "title": "Logistic Regression"
             }
           },
           {
@@ -187,18 +184,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "1a8f370ab0ac0109",
+  "active": "06fafbb6c29bfd29",
   "lastOpenFiles": [
-    "ML Techniques/Feature/Feature Normalization.md",
-    "ML Techniques.canvas",
-    "Machine Learning Algorithms.canvas",
-    "Supervised Learning/Supervised Learning.md",
     "ML Techniques/Feature/Feature Engineering.md",
+    "ML Techniques/Feature/Feature Normalization.md",
+    "Supervised Learning/Logistic Regression/Logistic Regression.md",
+    "Machine Learning Algorithms.canvas",
+    "Supervised Learning/Logistic Regression",
+    "ML Techniques.canvas",
     "Supervised Learning/Linear Regression/Univariate Linear Regression.md",
-    "Supervised Learning/Linear Regression/Multiple Variable Linear Regression.md",
+    "Supervised Learning/Linear Regression/Polynomial Regression.md",
     "Supervised Learning/Linear Regression/Gradient Descent for Multiple Feature.md",
+    "Supervised Learning/Supervised Learning.md",
+    "Supervised Learning/Linear Regression/Multiple Variable Linear Regression.md",
     "Machine Learning.md",
-    "Untitled",
     "ML Techniques/Parameter",
     "ML Techniques/Feature",
     "ML Techniques",
